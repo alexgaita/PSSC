@@ -1,0 +1,12 @@
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/bin/Debug/net6.0/Exemple.Domain.deps.json
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/bin/Debug/net6.0/Exemple.Domain.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/bin/Debug/net6.0/Exemple.Domain.pdb
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.csproj.AssemblyReference.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.AssemblyInfoInputs.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.AssemblyInfo.cs
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.csproj.CoreCompileInputs.cache
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/refint/Exemple.Domain.dll
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/Exemple.Domain.pdb
+/Users/alexandrugaita/Documents/faculta/Laborator-PSSC/Lucrarea-03/Exemple/Exemple.Domain/obj/Debug/net6.0/ref/Exemple.Domain.dll

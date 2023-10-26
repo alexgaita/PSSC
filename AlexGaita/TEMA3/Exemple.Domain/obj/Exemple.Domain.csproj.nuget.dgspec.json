@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple.Domain/Exemple.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple.Domain/Exemple.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple.Domain/Exemple.Domain.csproj",
+        "projectName": "Exemple.Domain",
+        "projectPath": "/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple.Domain/Exemple.Domain.csproj",
+        "packagesPath": "/Users/alexandrugaita/.nuget/packages/",
+        "outputPath": "/Users/alexandrugaita/Documents/faculta/PSSC/AlexGaita/TEMA3/Exemple.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandrugaita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CSharp.Choices": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
